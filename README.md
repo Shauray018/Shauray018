@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Shauray018
-- 👀 I’m interested in automotive design engineering
-- 🌱 I’m currently learning solidworks
-- 💞️ I’m looking to collaborate on assemblies 
+- 👀 I’m interested in web development 
+- 🌱 I’m currently learning react
+- 💞️ I’m looking to collaborate on anything 
 - 📫 How to reach me @shauray_dhingraa
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
