@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋 Hi, I’m @Shauray018<br> 👀 I’m interested in Block Chain and web development <br> 🌱 I’m currently learning Rust <br> 💞️ I’m looking to collaborate on Solana based Projects <br> 📫 How to reach me shauraydhingra03@gmail.com<br> 😄 Pronouns: he/him<br> ⚡ Fun fact: ...
+ 👋 Hi, I’m @Shauray018<br> 👀 I’m interested in blockchain and web development <br> 🌱 I’m currently learning Rust <br> 💞️ I’m looking to collaborate on Solana based Projects <br> 📫 How to reach me shauraydhingra03@gmail.com<br> 😄 Pronouns: he/him<br> ⚡ Fun fact: ...
 
 
 ## 🌐 Socials:
